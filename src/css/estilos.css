@@ -31,7 +31,7 @@ main {
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 2px black;
     text-transform: uppercase;
-    font-size: 150px ;
+    font-size: 100px ;
     line-height: 102px;
 }
 
