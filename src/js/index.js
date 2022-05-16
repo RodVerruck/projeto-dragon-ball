@@ -43,3 +43,5 @@ personagens.forEach((personagem) => {
   })
 })
 
+<script>function playAudio(audio_element) {var x = document.getElementById(musicaD); x.play();}</script>
+
